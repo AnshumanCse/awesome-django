@@ -122,3 +122,4 @@ nav_external_links:
   - title: Wagtail
     url: "#wagtail"
     hide_icon: true
+#     -hide_icon: false
